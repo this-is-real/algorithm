@@ -1,19 +1,15 @@
-'''
-풀이 못함. (다시 풀어서 업로드 예정)
-'''
-
 def solution(citations):
-    h_list = []
-    
-    for number in sorted(citations):
-        count = 0
-        for citation in citations:
-            if citation >= number :
+    answer = 0
+    h_dict={}
+    count = 0
+    for i in range(len(citations)+1):
+        for number in citations:
+            if number >= i :
                 count += 1
-        if count >= number:
-            h_list.append(number)
-    if h_list :
-        answer = max(h_list)
-    else :
-        answer = 1
+        h_dict[i] = count
+        count = 0
+    for i in range(len(citations)+1):
+        if h_dict[i] >= i:
+            result = i
+    answer = result
     return answer
