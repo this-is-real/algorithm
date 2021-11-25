@@ -3,8 +3,6 @@ def solution(answers):
     per2 = [2,1,2,3,2,4,2,5]
     per3 = [3,3,1,1,2,2,4,4,5,5]
     count = [0,0,0]
-    per2_count = 0
-    per3_count = 0
     
     for i in range(len(answers)):
         if per1[i%5] == answers[i] : 
