@@ -1,7 +1,7 @@
 def solution(brown, yellow):
     total = brown + yellow
     
-    #공배수 찾기 -> frame 만들기
+    #공약수 찾기 -> frame 만들기
     frames = []
     for i in range(3,total//2):
         if total % i == 0 and i >= total//i:
