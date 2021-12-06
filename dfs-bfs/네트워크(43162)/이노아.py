@@ -1,7 +1,7 @@
 def dfs(visit, n, idx):
     visit[idx][0] = 1 # visit[idx] False -> True
     
-    # 해당 node의 connected list 중 탐색할 곳 (cond1,2,3) 확인 후에 추가 탐색
+    # 해당 node의 connected list 중 탐색할 곳 (cond1,2) 확인 후에 추가 탐색
     for i in range(n):
         if (visit[idx][1][i] == 1) and (visit[i][0] == 0):
             dfs(visit, n, i) # 조건 충족하는 다음 node에 대한 재귀적 적용
