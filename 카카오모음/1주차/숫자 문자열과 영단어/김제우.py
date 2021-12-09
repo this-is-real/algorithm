@@ -14,7 +14,6 @@ def solution(s):
     }
     for number in numbers:
         while number in s :
-            print(number)
             s = s[:s.index(number)] + str(numbers[number])+ s[s.index(number)+len(number):]
     answer = int(s)
     return answer
