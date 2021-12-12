@@ -9,7 +9,4 @@ def solution(record):
             result.append(f'{uid_to_nick[uid]}님이 들어왔습니다.')
         elif command == "Leave":
             result.append(f'{uid_to_nick[uid]}님이 나갔습니다.')
-            
-    answer = result
-    
-    return answer
+    return result
