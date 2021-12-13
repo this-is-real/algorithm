@@ -4,9 +4,10 @@
 ### 2주차 12/13 ~ 12/17
 - [ ] [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) - LV1 (Due: 2021/12/13)
 - [ ] [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) - LV1 (Due: 2021/12/14)
-- [ ] [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) - LV2 (Due: 2021/12/15)
-- [ ] [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) - LV2 (Due: 2021/12/16)
-- [ ] [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) - LV2 (Due: 2021/12/17)
+- [ ] [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) - LV2 (Due: 2021/12/14)
+- [ ] [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) - LV2 (Due: 2021/12/15)
+- [ ] [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) - LV1 (Due: 2021/12/16)
+- [ ] [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - LV2 (Due: 2021/12/17)
 
 ### 1주차 12/08 ~ 12/10 (Completed)
 - [ ] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) - LV1 (Due: 2021/12/08)
@@ -15,9 +16,7 @@
 - [ ] [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) - LV2 (Due: 2021/12/10)
 
 ### Upcoming
-- [ ] [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) - LV2
-- [ ] [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) - LV1
-- [ ] [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - LV2
+
 - [ ] [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - LV2
 - [ ] [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) - LV2
 - [ ] [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) - LV2
