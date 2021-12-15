@@ -1,4 +1,4 @@
-def is_right(s):
+def is_correct(s):
     stack = ""
     for item in s :
         stack += item
@@ -27,8 +27,8 @@ def recursive(w):
     if w == '':
         return ''
     u, v = seperate(w)
-    if is_right(u):
-        if is_right(v):
+    if is_correct(u):
+        if is_correct(v):
             return u+v
         else :
             v = recursive(v)
