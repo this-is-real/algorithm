@@ -7,7 +7,6 @@ def is_minimal(unique_list, item):
             result = False
     return result
 def solution(relation):
-    col_num = len(relation[0])
     row_num = len(relation)
     cols = pd.DataFrame(relation)
     unique_list = []
