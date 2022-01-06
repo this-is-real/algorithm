@@ -12,7 +12,6 @@ def solution(dartResult):
             option = ""
         splited_darts.append([number,area,option])
     
-    score = 0
     result = []
     for i,item in enumerate(splited_darts):
         temp_score = 0
