@@ -20,3 +20,4 @@ def solution(user_id, banned_id):
     for c in candidates:
         if set(c) not in answer:
             answer.append(set(c))
+    return len(answer)
