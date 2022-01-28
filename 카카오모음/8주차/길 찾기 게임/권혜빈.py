@@ -1,6 +1,6 @@
+# 이해중
 import sys
 sys.setrecursionlimit(10 ** 6)
-
 
 def order(nodeinfo, layer, cur_layer):
     global answer
