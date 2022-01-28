@@ -1,4 +1,4 @@
-# 이해중
+# 이해 중
 import sys
 sys.setrecursionlimit(10 ** 6)
 
